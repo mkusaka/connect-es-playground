@@ -12,3 +12,17 @@ generate
 ```
 yarn buf generate proto 
 ```
+
+server
+
+```
+yarn tsx server.ts
+```
+
+client
+```
+yarn tsx client.t
+```
+
+# ref
+- https://connect.build/docs/node/getting-started
